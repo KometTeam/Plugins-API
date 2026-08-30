@@ -473,7 +473,7 @@ if (context.apiVersion < 1) {
 
 ## API reference
 
-Все API экспортируются модулем `komet:api`.
+Все API экспортируются модулем `komet:api`. [Тайпинги лежат тут.](https://github.com/KometTeam/Plugins-API/blob/main/useful/komet-api.d.ts)
 
 ```js
 import {
